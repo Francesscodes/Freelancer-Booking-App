@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Faith",
+    "skill": "Social Media Manager",
+    "rate": 20,
+    "booked": true,
+    "reviews": [
+      "excellent services"
+    ]
+  },
+  {
+    "name": "Bisi",
+    "skill": "AI Automation Consultant",
+    "rate": 15,
+    "booked": false,
+    "reviews": []
+  },
+  {
+    "name": "Douglas",
+    "skill": "Web Developer",
+    "rate": 18,
+    "booked": false,
+    "reviews": []
+  },
+  {
+    "name": "Amaka",
+    "skill": "Product Manager",
+    "rate": 15,
+    "booked": false,
+    "reviews": []
+  },
+  {
+    "name": "Richard",
+    "skill": "SEO Expert",
+    "rate": 10,
+    "booked": false,
+    "reviews": []
+  }
+]
